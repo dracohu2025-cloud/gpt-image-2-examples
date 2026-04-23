@@ -1,0 +1,18 @@
+[
+  {
+    "id": "001-xingxing",
+    "index": 1,
+    "slug": "xingxing",
+    "name": "狌狌",
+    "imagePath": "/images/creatures/001-xingxing/xingxing-gongbi-3x4-v1.png",
+    "entryPath": "content/creatures/001-xingxing/entry.json"
+  },
+  {
+    "id": "002-chiru",
+    "index": 2,
+    "slug": "chiru",
+    "name": "赤鱬",
+    "imagePath": "/images/creatures/002-chiru/chiru-gongbi-3x4-v1.png",
+    "entryPath": "content/creatures/002-chiru/entry.json"
+  }
+]
