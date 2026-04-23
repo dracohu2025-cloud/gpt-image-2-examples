@@ -1,0 +1,25 @@
+{
+  "id": "008-xuangui",
+  "index": 8,
+  "slug": "xuangui",
+  "name": "旋龟",
+  "chapter": "南山经",
+  "sourceUrl": "https://shj.jgbk.net/t7001.html",
+  "shortSummary": "在《南山经》和《中山经》均有记载；它的外形像龟但有鸟头和虺尾，发出如伐木声般的音响，可用于辨别声音。",
+  "promptSummary": "山海经异兽旋龟，形象参考《南山经》《中山经》：整体外形像龟但有鸟头和虺尾，发出如伐木声般的音响，可用于辨别声音。画面中重点突出甲壳纹理、鸟首结构、蛇尾鳞片与水陆交界的湿润质感，背景可放入古水泽、浅滩、怪石与潮湿雾气，整体呈现诡谲、原始、神秘的远古东方神话氛围。",
+  "assets": [
+    {
+      "id": "xuangui-gongbi-3x4-v1",
+      "type": "image",
+      "model": "gpt-image-2",
+      "style": [
+        "工笔画",
+        "极繁主义"
+      ],
+      "aspectRatio": "3:4",
+      "width": 1086,
+      "height": 1448,
+      "path": "/images/creatures/008-xuangui/xuangui-gongbi-3x4-v1.png"
+    }
+  ]
+}

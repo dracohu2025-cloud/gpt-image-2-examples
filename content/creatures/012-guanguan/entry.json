@@ -1,0 +1,25 @@
+{
+  "id": "012-guanguan",
+  "index": 12,
+  "slug": "guanguan",
+  "name": "灌灌",
+  "chapter": "南山经",
+  "sourceUrl": "https://shj.jgbk.net/t7004.html",
+  "shortSummary": "该鸟状如鸠，声音如呵，佩之令不会迷惑。",
+  "promptSummary": "山海经异鸟灌灌，形象参考《南山经》：该鸟状如鸠，声音如呵，佩之令不会迷惑。画面中重点突出羽毛层次、喙爪结构、神态与栖木姿态，背景可放入高山、断崖、古木、流云与烈风，整体呈现诡谲、原始、神秘的远古东方神话氛围。",
+  "assets": [
+    {
+      "id": "guanguan-gongbi-3x4-v1",
+      "type": "image",
+      "model": "gpt-image-2",
+      "style": [
+        "工笔画",
+        "极繁主义"
+      ],
+      "aspectRatio": "3:4",
+      "width": 1086,
+      "height": 1448,
+      "path": "/images/creatures/012-guanguan/guanguan-gongbi-3x4-v1.png"
+    }
+  ]
+}

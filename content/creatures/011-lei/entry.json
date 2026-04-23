@@ -1,0 +1,25 @@
+{
+  "id": "011-lei",
+  "index": 11,
+  "slug": "lei",
+  "name": "类",
+  "chapter": "南山经",
+  "sourceUrl": "https://shj.jgbk.net/t7003.html",
+  "shortSummary": "它的外形类似于狸，身上有毛，环境多水，无草木，性情自给自足。",
+  "promptSummary": "山海经异兽类，形象参考《南山经》：整体外形类似于狸，身上有毛，环境多水，无草木，性情自给自足。画面中重点突出头部神态、皮毛纹样、肢体比例与荒凉水泽环境的湿润质感，背景可放入多水少木的怪石湿地与薄雾，整体呈现诡谲、原始、神秘的远古东方神话氛围。",
+  "assets": [
+    {
+      "id": "lei-gongbi-3x4-v1",
+      "type": "image",
+      "model": "gpt-image-2",
+      "style": [
+        "工笔画",
+        "极繁主义"
+      ],
+      "aspectRatio": "3:4",
+      "width": 1086,
+      "height": 1448,
+      "path": "/images/creatures/011-lei/lei-gongbi-3x4-v1.png"
+    }
+  ]
+}

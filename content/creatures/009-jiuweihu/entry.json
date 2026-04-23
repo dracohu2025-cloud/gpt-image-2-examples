@@ -1,0 +1,25 @@
+{
+  "id": "009-jiuweihu",
+  "index": 9,
+  "slug": "jiuweihu",
+  "name": "九尾狐",
+  "chapter": "海外东经",
+  "sourceUrl": "https://shj.jgbk.net/t7117.html",
+  "shortSummary": "它外形如狐，有九条尾巴，声音如婴儿，能食人却不下蛊。",
+  "promptSummary": "山海经异兽九尾狐，形象参考《海外东经》《大荒东经》《南山经》：整体外形如狐，有九条尾巴，声音如婴儿，能食人却不下蛊。画面中重点突出狐首神态、九尾层次、皮毛纹样与危险而优雅的姿态，背景可放入海外荒山、古林、礁石与冷雾，整体呈现凶异、危险、压迫感强的远古东方神话氛围。",
+  "assets": [
+    {
+      "id": "jiuweihu-gongbi-3x4-v1",
+      "type": "image",
+      "model": "gpt-image-2",
+      "style": [
+        "工笔画",
+        "极繁主义"
+      ],
+      "aspectRatio": "3:4",
+      "width": 1086,
+      "height": 1448,
+      "path": "/images/creatures/009-jiuweihu/jiuweihu-gongbi-3x4-v1.png"
+    }
+  ]
+}
