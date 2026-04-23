@@ -1,0 +1,25 @@
+{
+  "id": "003-lushu",
+  "index": 3,
+  "slug": "lushu",
+  "name": "鹿蜀",
+  "chapter": "南山经",
+  "sourceUrl": "https://shj.jgbk.net/t6997.html",
+  "shortSummary": "鹿蜀的外貌像马，白色的头，虎纹身，红色的尾巴，发出如谣的声音，佩戴它可使子孙兴旺。",
+  "promptSummary": "山海经异兽鹿蜀，形象参考《南山经》：鹿蜀的外貌像马，白色的头，虎纹身，红色的尾巴，发出如谣的声音，佩戴它可使子孙兴旺。画面中重点突出头部轮廓、肢体比例、尾巴结构、皮毛纹样与动作姿态，背景可放入荒山、古林、怪石、薄雾与上古植被，整体呈现诡谲、原始、神秘的远古东方神话氛围。",
+  "assets": [
+    {
+      "id": "lushu-gongbi-3x4-v1",
+      "type": "image",
+      "model": "gpt-image-2",
+      "style": [
+        "工笔画",
+        "极繁主义"
+      ],
+      "aspectRatio": "3:4",
+      "width": 1086,
+      "height": 1448,
+      "path": "/images/creatures/003-lushu/lushu-gongbi-3x4-v1.png"
+    }
+  ]
+}

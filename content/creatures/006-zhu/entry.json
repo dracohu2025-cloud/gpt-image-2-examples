@@ -1,0 +1,25 @@
+{
+  "id": "006-zhu",
+  "index": 6,
+  "slug": "zhu",
+  "name": "鴸鸟（鴸）",
+  "chapter": "南山经",
+  "sourceUrl": "https://shj.jgbk.net/t7000.html",
+  "shortSummary": "[ 鴸鸟 ]形状似鸱，有人手，鸣声如痺，见则县中多放士。",
+  "promptSummary": "山海经异鸟鴸，形象参考《南山经》：形状似鸱，有人手，鸣声如痺，见则县中多放士。画面中重点突出羽毛层次、利喙轮廓、眼神、人手结构与展翼姿态，背景可放入高山、断崖、古木、流云与烈风，整体呈现诡谲、原始、神秘的远古东方神话氛围。",
+  "assets": [
+    {
+      "id": "zhu-gongbi-3x4-v1",
+      "type": "image",
+      "model": "gpt-image-2",
+      "style": [
+        "工笔画",
+        "极繁主义"
+      ],
+      "aspectRatio": "3:4",
+      "width": 1086,
+      "height": 1448,
+      "path": "/images/creatures/006-zhu/zhu-gongbi-3x4-v1.png"
+    }
+  ]
+}

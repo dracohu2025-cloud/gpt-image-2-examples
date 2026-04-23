@@ -1,0 +1,25 @@
+{
+  "id": "005-lu",
+  "index": 5,
+  "slug": "lu",
+  "name": "鯥",
+  "chapter": "南山经",
+  "sourceUrl": "https://shj.jgbk.net/t6999.html",
+  "shortSummary": "鯥形状如牛，拥有蛇尾和翅膀，冬死夏生，食用后无肿疾。",
+  "promptSummary": "山海经异兽鯥，形象参考《南山经》：鯥形状如牛，拥有蛇尾和翅膀，冬死夏生，食用后无肿疾。画面中重点突出牛首结构、鳞片质感、翅翼形态、蛇尾曲线与水中动态，背景可放入深水、河泽、暗流、浪涌与水雾，整体呈现诡谲、原始、神秘的远古东方神话氛围。",
+  "assets": [
+    {
+      "id": "lu-gongbi-3x4-v1",
+      "type": "image",
+      "model": "gpt-image-2",
+      "style": [
+        "工笔画",
+        "极繁主义"
+      ],
+      "aspectRatio": "3:4",
+      "width": 1086,
+      "height": 1448,
+      "path": "/images/creatures/005-lu/lu-gongbi-3x4-v1.png"
+    }
+  ]
+}

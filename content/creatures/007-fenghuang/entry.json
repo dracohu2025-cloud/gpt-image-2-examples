@@ -1,0 +1,25 @@
+{
+  "id": "007-fenghuang",
+  "index": 7,
+  "slug": "fenghuang",
+  "name": "凤凰",
+  "chapter": "南山经",
+  "sourceUrl": "https://shj.jgbk.net/t7062.html",
+  "shortSummary": "其外形如鸡，羽毛五彩缤纷，具有祥瑞和平安的象征。",
+  "promptSummary": "山海经神鸟凤凰，形象参考《南山经》《海内西经》：其外形如鸡，羽毛五彩缤纷，具有祥瑞和平安的象征。画面中重点突出羽毛色彩、尾羽层叠、喙爪结构与展翼姿态，背景可放入海外荒岛、断崖、云海与神木，整体呈现神秘、庄严、带有护佑与祥瑞意味的远古东方神话氛围。",
+  "assets": [
+    {
+      "id": "fenghuang-gongbi-3x4-v1",
+      "type": "image",
+      "model": "gpt-image-2",
+      "style": [
+        "工笔画",
+        "极繁主义"
+      ],
+      "aspectRatio": "3:4",
+      "width": 1086,
+      "height": 1448,
+      "path": "/images/creatures/007-fenghuang/fenghuang-gongbi-3x4-v1.png"
+    }
+  ]
+}

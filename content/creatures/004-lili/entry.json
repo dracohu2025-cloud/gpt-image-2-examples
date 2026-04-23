@@ -1,0 +1,25 @@
+{
+  "id": "004-lili",
+  "index": 4,
+  "slug": "lili",
+  "name": "狸力",
+  "chapter": "南山经",
+  "sourceUrl": "https://shj.jgbk.net/t6998.html",
+  "shortSummary": "它的外貌如同豚，具距，发出如狗吠的声音，见之则其县多土功。",
+  "promptSummary": "山海经异兽狸力，形象参考《南山经》：整体外形如同豚，具距，发出如狗吠的声音，见之则其县多土功。画面中重点突出头部轮廓、肢体比例、利爪结构、皮毛纹样与动作姿态，背景可放入荒山、古林、怪石、薄雾与上古植被，整体呈现诡谲、原始、神秘的远古东方神话氛围。",
+  "assets": [
+    {
+      "id": "lili-gongbi-3x4-v1",
+      "type": "image",
+      "model": "gpt-image-2",
+      "style": [
+        "工笔画",
+        "极繁主义"
+      ],
+      "aspectRatio": "3:4",
+      "width": 1086,
+      "height": 1448,
+      "path": "/images/creatures/004-lili/lili-gongbi-3x4-v1.png"
+    }
+  ]
+}
