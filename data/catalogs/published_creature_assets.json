@@ -214,5 +214,45 @@
     "name": "数斯",
     "imagePath": "/images/creatures/027-shusi/shusi-gongbi-3x4-v1.png",
     "entryPath": "content/creatures/027-shusi/entry.json"
+  },
+  {
+    "id": "028-tuo",
+    "index": 28,
+    "slug": "tuo",
+    "name": "橐",
+    "imagePath": "/images/creatures/028-tuo/tuo-gongbi-3x4-v1.png",
+    "entryPath": "content/creatures/028-tuo/entry.json"
+  },
+  {
+    "id": "029-shuhu",
+    "index": 29,
+    "slug": "shuhu",
+    "name": "孰湖",
+    "imagePath": "/images/creatures/029-shuhu/shuhu-gongbi-3x4-v1.png",
+    "entryPath": "content/creatures/029-shuhu/entry.json"
+  },
+  {
+    "id": "030-bo",
+    "index": 30,
+    "slug": "bo",
+    "name": "駮",
+    "imagePath": "/images/creatures/030-bo/bo-gongbi-3x4-v1.png",
+    "entryPath": "content/creatures/030-bo/entry.json"
+  },
+  {
+    "id": "031-danghu",
+    "index": 31,
+    "slug": "danghu",
+    "name": "当扈",
+    "imagePath": "/images/creatures/031-danghu/danghu-gongbi-3x4-v1.png",
+    "entryPath": "content/creatures/031-danghu/entry.json"
+  },
+  {
+    "id": "032-shengyu",
+    "index": 32,
+    "slug": "shengyu",
+    "name": "胜遇",
+    "imagePath": "/images/creatures/032-shengyu/shengyu-gongbi-3x4-v1.png",
+    "entryPath": "content/creatures/032-shengyu/entry.json"
   }
 ]

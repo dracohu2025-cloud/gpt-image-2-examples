@@ -1,0 +1,25 @@
+{
+  "id": "029-shuhu",
+  "index": 29,
+  "slug": "shuhu",
+  "name": "孰湖",
+  "chapter": "西山经",
+  "sourceUrl": "https://shj.jgbk.net/t7168.html",
+  "shortSummary": "在《西山经》有记载；它的外形特征是马身鸟翼，蛇尾，似乎具备灵动的能力。",
+  "promptSummary": "山海经异兽孰湖，形象参考《西山经》：整体外形特征是马身鸟翼，蛇尾，似乎具备灵动的能力。画面中重点突出马身结构、鸟翼羽毛、蛇尾鳞片、鬃毛、蹄部与凌空跃起姿态，背景可放入高山、断崖、古木、流云与烈风，整体呈现诡谲、原始、神秘的远古东方神话氛围。",
+  "assets": [
+    {
+      "id": "shuhu-gongbi-3x4-v1",
+      "type": "image",
+      "model": "gpt-image-2",
+      "style": [
+        "工笔画",
+        "极繁主义"
+      ],
+      "aspectRatio": "3:4",
+      "width": 1085,
+      "height": 1450,
+      "path": "/images/creatures/029-shuhu/shuhu-gongbi-3x4-v1.png"
+    }
+  ]
+}

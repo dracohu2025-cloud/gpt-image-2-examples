@@ -1,0 +1,25 @@
+{
+  "id": "028-tuo",
+  "index": 28,
+  "slug": "tuo",
+  "name": "橐",
+  "chapter": "西山经",
+  "sourceUrl": "https://shj.jgbk.net/t7158.html",
+  "shortSummary": "它的外貌似枭，人面且只有一只脚，能够预示冬季到来。",
+  "promptSummary": "山海经异鸟橐，形象参考《西山经》：整体外形似枭，人面且只有一只脚，能够预示冬季到来。画面中重点突出人面枭首、单足结构、厚重羽毛、寒冷姿态与冬季征兆，背景可放入覆霜荒山、古林、怪石、寒雾与上古植被，整体呈现诡谲、原始、神秘且寒冷的远古东方神话氛围。",
+  "assets": [
+    {
+      "id": "tuo-gongbi-3x4-v1",
+      "type": "image",
+      "model": "gpt-image-2",
+      "style": [
+        "工笔画",
+        "极繁主义"
+      ],
+      "aspectRatio": "3:4",
+      "width": 1085,
+      "height": 1449,
+      "path": "/images/creatures/028-tuo/tuo-gongbi-3x4-v1.png"
+    }
+  ]
+}

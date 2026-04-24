@@ -1,0 +1,25 @@
+{
+  "id": "030-bo",
+  "index": 30,
+  "slug": "bo",
+  "name": "駮",
+  "chapter": "海外北经",
+  "sourceUrl": "https://shj.jgbk.net/t7169.html",
+  "shortSummary": "它的外形类似于白马，拥有锯齿状的牙齿，能捕食虎豹。",
+  "promptSummary": "山海经异兽駮，形象参考《海外北经》：整体外形类似于白马，拥有锯齿状的牙齿，能捕食虎豹。画面中重点突出白马轮廓、锯齿牙、鬃毛、肌肉结构、蹄部与凶悍姿态，背景可放入海外荒山、古林、礁石、冷雾与崎岖山体，整体呈现诡谲、原始、神秘且凶悍的远古东方神话氛围。",
+  "assets": [
+    {
+      "id": "bo-gongbi-3x4-v1",
+      "type": "image",
+      "model": "gpt-image-2",
+      "style": [
+        "工笔画",
+        "极繁主义"
+      ],
+      "aspectRatio": "3:4",
+      "width": 1086,
+      "height": 1448,
+      "path": "/images/creatures/030-bo/bo-gongbi-3x4-v1.png"
+    }
+  ]
+}

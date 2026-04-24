@@ -1,0 +1,25 @@
+{
+  "id": "032-shengyu",
+  "index": 32,
+  "slug": "shengyu",
+  "name": "胜遇",
+  "chapter": "西山经",
+  "sourceUrl": "https://shj.jgbk.net/t7173.html",
+  "shortSummary": "它的外貌如翟，羽毛为赤色，专食鱼类，叫声类似于录音，出现时预示着国家将有大水灾。",
+  "promptSummary": "山海经异鸟胜遇，形象参考《西山经》：整体外形如翟，羽毛为赤色，专食鱼类，叫声奇异，出现时预示着国家将有大水灾。画面中重点突出赤色羽毛、翟鸟轮廓、长喙、利爪、抓鱼动作与洪水征兆，背景可放入暴涨河泽、暗流、浪涌、水雾、断木与阴沉流云，整体呈现凶异、危险、压迫感强的远古东方神话氛围。",
+  "assets": [
+    {
+      "id": "shengyu-gongbi-3x4-v1",
+      "type": "image",
+      "model": "gpt-image-2",
+      "style": [
+        "工笔画",
+        "极繁主义"
+      ],
+      "aspectRatio": "3:4",
+      "width": 1085,
+      "height": 1450,
+      "path": "/images/creatures/032-shengyu/shengyu-gongbi-3x4-v1.png"
+    }
+  ]
+}
