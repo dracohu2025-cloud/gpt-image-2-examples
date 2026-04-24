@@ -134,5 +134,45 @@
     "name": "多罗罗",
     "imagePath": "/images/creatures/017-duoluoluo/duoluoluo-gongbi-3x4-v1.png",
     "entryPath": "content/creatures/017-duoluoluo/entry.json"
+  },
+  {
+    "id": "018-lei-bird",
+    "index": 18,
+    "slug": "lei-bird",
+    "name": "鸓",
+    "imagePath": "/images/creatures/018-lei-bird/lei-bird-gongbi-3x4-v1.png",
+    "entryPath": "content/creatures/018-lei-bird/entry.json"
+  },
+  {
+    "id": "019-jueru",
+    "index": 19,
+    "slug": "jueru",
+    "name": "玃如",
+    "imagePath": "/images/creatures/019-jueru/jueru-gongbi-3x4-v1.png",
+    "entryPath": "content/creatures/019-jueru/entry.json"
+  },
+  {
+    "id": "020-xiao",
+    "index": 20,
+    "slug": "xiao",
+    "name": "嚣",
+    "imagePath": "/images/creatures/020-xiao/xiao-gongbi-3x4-v1.png",
+    "entryPath": "content/creatures/020-xiao/entry.json"
+  },
+  {
+    "id": "021-min",
+    "index": 21,
+    "slug": "min",
+    "name": "鴖",
+    "imagePath": "/images/creatures/021-min/min-gongbi-3x4-v1.png",
+    "entryPath": "content/creatures/021-min/entry.json"
+  },
+  {
+    "id": "022-bailu",
+    "index": 22,
+    "slug": "bailu",
+    "name": "白鹿",
+    "imagePath": "/images/creatures/022-bailu/bailu-gongbi-3x4-v1.png",
+    "entryPath": "content/creatures/022-bailu/entry.json"
   }
 ]

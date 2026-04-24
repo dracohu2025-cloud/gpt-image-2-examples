@@ -1,0 +1,25 @@
+{
+  "id": "020-xiao",
+  "index": 20,
+  "slug": "xiao",
+  "name": "嚣",
+  "chapter": "西山经",
+  "sourceUrl": "https://shj.jgbk.net/t7078.html",
+  "shortSummary": "在《西山经》和《北山经》均有记载；它的外形似禺，长臂善投，且羽毛多姿，发出似鹊的声音。",
+  "promptSummary": "山海经异兽嚣，形象参考《西山经》《北山经》：整体外形似禺，长臂善投，且羽毛多姿，发出似鹊的声音。画面中重点突出猿形面部、长臂比例、投掷姿态、多彩羽毛、异形肢体与攀援动作，背景可放入高山、断崖、古木、流云与烈风，整体呈现诡谲、原始、神秘的远古东方神话氛围。",
+  "assets": [
+    {
+      "id": "xiao-gongbi-3x4-v1",
+      "type": "image",
+      "model": "gpt-image-2",
+      "style": [
+        "工笔画",
+        "极繁主义"
+      ],
+      "aspectRatio": "3:4",
+      "width": 1085,
+      "height": 1450,
+      "path": "/images/creatures/020-xiao/xiao-gongbi-3x4-v1.png"
+    }
+  ]
+}

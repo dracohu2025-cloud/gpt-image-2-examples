@@ -1,0 +1,25 @@
+{
+  "id": "018-lei-bird",
+  "index": 18,
+  "slug": "lei-bird",
+  "name": "鸓",
+  "chapter": "西山经",
+  "sourceUrl": "https://shj.jgbk.net/t7076.html",
+  "shortSummary": "它的外形特征为赤黑色，具两头四足，能够御火。",
+  "promptSummary": "山海经异兽鸓，形象参考《西山经》：整体外形特征为赤黑色，具两头四足，能够御火。画面中重点突出双头结构、四足比例、赤黑毛色、皮毛与鳞甲纹样、御火姿态与火焰流线，背景可放入荒山、古林、焦木、怪石、薄雾与上古植被，整体呈现诡谲、原始、神秘的远古东方神话氛围。",
+  "assets": [
+    {
+      "id": "lei-bird-gongbi-3x4-v1",
+      "type": "image",
+      "model": "gpt-image-2",
+      "style": [
+        "工笔画",
+        "极繁主义"
+      ],
+      "aspectRatio": "3:4",
+      "width": 1085,
+      "height": 1450,
+      "path": "/images/creatures/018-lei-bird/lei-bird-gongbi-3x4-v1.png"
+    }
+  ]
+}

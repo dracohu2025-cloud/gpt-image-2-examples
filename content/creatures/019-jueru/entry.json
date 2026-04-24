@@ -1,0 +1,25 @@
+{
+  "id": "019-jueru",
+  "index": 19,
+  "slug": "jueru",
+  "name": "玃如",
+  "chapter": "西山经",
+  "sourceUrl": "https://shj.jgbk.net/t7077.html",
+  "shortSummary": "在《西山经》有记载；这种动物的外形似鹿而尾部是白色，四足像马，手则为人手，具有独特的外貌特征。",
+  "promptSummary": "山海经异兽玃如，形象参考《西山经》：这种动物的外形似鹿而尾部是白色，四足像马，手则为人手，具有独特的外貌特征。画面中重点突出鹿形头部、白尾、马足比例、人手形前肢、皮毛纹样与警觉姿态，背景可放入荒山、古林、怪石、薄雾与上古植被，整体呈现诡谲、原始、神秘的远古东方神话氛围。",
+  "assets": [
+    {
+      "id": "jueru-gongbi-3x4-v1",
+      "type": "image",
+      "model": "gpt-image-2",
+      "style": [
+        "工笔画",
+        "极繁主义"
+      ],
+      "aspectRatio": "3:4",
+      "width": 1086,
+      "height": 1448,
+      "path": "/images/creatures/019-jueru/jueru-gongbi-3x4-v1.png"
+    }
+  ]
+}

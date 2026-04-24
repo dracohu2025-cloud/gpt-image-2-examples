@@ -1,0 +1,25 @@
+{
+  "id": "022-bailu",
+  "index": 22,
+  "slug": "bailu",
+  "name": "白鹿",
+  "chapter": "西山经",
+  "sourceUrl": "https://shj.jgbk.net/t7080.html",
+  "shortSummary": "白鹿生活在上申之山，栖息于多硌石的地带，外貌特征为多为白色，象征纯洁与神秘。",
+  "promptSummary": "山海经异兽白鹿，形象参考《西山经》：白鹿生活在上申之山，栖息于多硌石的地带，外貌特征为多为白色，象征纯洁与神秘。画面中重点突出白色皮毛、鹿角结构、头部轮廓、肢体比例、蹄部细节与静立姿态，背景可放入上申之山、硌石、古林、薄雾与上古植被，整体呈现清冷、古奥、神秘的远古东方神话氛围。",
+  "assets": [
+    {
+      "id": "bailu-gongbi-3x4-v1",
+      "type": "image",
+      "model": "gpt-image-2",
+      "style": [
+        "工笔画",
+        "极繁主义"
+      ],
+      "aspectRatio": "3:4",
+      "width": 1086,
+      "height": 1448,
+      "path": "/images/creatures/022-bailu/bailu-gongbi-3x4-v1.png"
+    }
+  ]
+}
