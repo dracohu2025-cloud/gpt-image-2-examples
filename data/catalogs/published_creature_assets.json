@@ -174,5 +174,45 @@
     "name": "白鹿",
     "imagePath": "/images/creatures/022-bailu/bailu-gongbi-3x4-v1.png",
     "entryPath": "content/creatures/022-bailu/entry.json"
+  },
+  {
+    "id": "023-qiyu",
+    "index": 23,
+    "slug": "qiyu",
+    "name": "鵸䳜",
+    "imagePath": "/images/creatures/023-qiyu/qiyu-gongbi-3x4-v1.png",
+    "entryPath": "content/creatures/023-qiyu/entry.json"
+  },
+  {
+    "id": "024-tiangou",
+    "index": 24,
+    "slug": "tiangou",
+    "name": "天狗",
+    "imagePath": "/images/creatures/024-tiangou/tiangou-gongbi-3x4-v1.png",
+    "entryPath": "content/creatures/024-tiangou/entry.json"
+  },
+  {
+    "id": "025-qitu",
+    "index": 25,
+    "slug": "qitu",
+    "name": "鵸鵌",
+    "imagePath": "/images/creatures/025-qitu/qitu-gongbi-3x4-v1.png",
+    "entryPath": "content/creatures/025-qitu/entry.json"
+  },
+  {
+    "id": "026-jiao",
+    "index": 26,
+    "slug": "jiao",
+    "name": "狡",
+    "imagePath": "/images/creatures/026-jiao/jiao-gongbi-3x4-v1.png",
+    "entryPath": "content/creatures/026-jiao/entry.json"
+  },
+  {
+    "id": "027-shusi",
+    "index": 27,
+    "slug": "shusi",
+    "name": "数斯",
+    "imagePath": "/images/creatures/027-shusi/shusi-gongbi-3x4-v1.png",
+    "entryPath": "content/creatures/027-shusi/entry.json"
   }
 ]

@@ -1,0 +1,25 @@
+{
+  "id": "024-tiangou",
+  "index": 24,
+  "slug": "tiangou",
+  "name": "天狗",
+  "chapter": "西山经",
+  "sourceUrl": "https://shj.jgbk.net/t7082.html",
+  "shortSummary": "天狗状如狸而白首，声音类似榴榴，传说可以抵御凶险。",
+  "promptSummary": "山海经异兽天狗，形象参考《西山经》：天狗状如狸而白首，声音类似榴榴，传说可以抵御凶险。画面中重点突出白首、狸形身躯、耳部轮廓、蓬松长尾、皮毛纹样与警觉姿态，背景可放入荒山、古林、怪石、薄雾与上古植被，整体呈现诡谲、原始、神秘并带护佑感的远古东方神话氛围。",
+  "assets": [
+    {
+      "id": "tiangou-gongbi-3x4-v1",
+      "type": "image",
+      "model": "gpt-image-2",
+      "style": [
+        "工笔画",
+        "极繁主义"
+      ],
+      "aspectRatio": "3:4",
+      "width": 1085,
+      "height": 1450,
+      "path": "/images/creatures/024-tiangou/tiangou-gongbi-3x4-v1.png"
+    }
+  ]
+}

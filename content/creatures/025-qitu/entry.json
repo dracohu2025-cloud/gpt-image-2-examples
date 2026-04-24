@@ -1,0 +1,25 @@
+{
+  "id": "025-qitu",
+  "index": 25,
+  "slug": "qitu",
+  "name": "鵸鵌",
+  "chapter": "北山经",
+  "sourceUrl": "https://shj.jgbk.net/t7083.html",
+  "shortSummary": "它的外形如乌，具有五彩和赤色纹路，可以自我繁殖，食用后不会生病。",
+  "promptSummary": "山海经异鸟鵸鵌，形象参考《北山经》：整体外形如乌，具有五彩和赤色纹路，可以自我繁殖，食用后不会生病。画面中重点突出乌形轮廓、深黑羽毛、五彩光泽、赤色纹路、喙爪结构与栖枝姿态，背景可放入荒山、古林、怪石、薄雾与上古植被，整体呈现诡谲、原始、神秘的远古东方神话氛围。",
+  "assets": [
+    {
+      "id": "qitu-gongbi-3x4-v1",
+      "type": "image",
+      "model": "gpt-image-2",
+      "style": [
+        "工笔画",
+        "极繁主义"
+      ],
+      "aspectRatio": "3:4",
+      "width": 1086,
+      "height": 1448,
+      "path": "/images/creatures/025-qitu/qitu-gongbi-3x4-v1.png"
+    }
+  ]
+}

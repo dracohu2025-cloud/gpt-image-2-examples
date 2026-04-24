@@ -1,0 +1,25 @@
+{
+  "id": "026-jiao",
+  "index": 26,
+  "slug": "jiao",
+  "name": "狡",
+  "chapter": "西山经",
+  "sourceUrl": "https://shj.jgbk.net/t7084.html",
+  "shortSummary": "其状如犬而豹文，带有牛角，寓意吉祥，见则其国丰饶。",
+  "promptSummary": "山海经异兽狡，形象参考《西山经》：其状如犬而豹文，带有牛角，寓意吉祥，见则其国丰饶。画面中重点突出犬形轮廓、豹纹皮毛、牛角结构、四足比例与威严祥瑞姿态，背景可放入荒山、古林、怪石、薄雾、灵草与丰饶上古植被，整体呈现诡谲、原始、神秘并带祥瑞丰饶感的远古东方神话氛围。",
+  "assets": [
+    {
+      "id": "jiao-gongbi-3x4-v1",
+      "type": "image",
+      "model": "gpt-image-2",
+      "style": [
+        "工笔画",
+        "极繁主义"
+      ],
+      "aspectRatio": "3:4",
+      "width": 1086,
+      "height": 1448,
+      "path": "/images/creatures/026-jiao/jiao-gongbi-3x4-v1.png"
+    }
+  ]
+}

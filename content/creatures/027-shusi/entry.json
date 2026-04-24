@@ -1,0 +1,25 @@
+{
+  "id": "027-shusi",
+  "index": 27,
+  "slug": "shusi",
+  "name": "数斯",
+  "chapter": "西山经",
+  "sourceUrl": "https://shj.jgbk.net/t7154.html",
+  "shortSummary": "出现在《西山经》部分；这种鸟形状如鸱，长有人足，传说其食用后会导致人身瘿。",
+  "promptSummary": "山海经异鸟数斯，形象参考《西山经》：这种鸟形状如鸱，长有人足，传说其食用后会导致人身瘿。画面中重点突出鸱形头部、圆阔面盘、喙眼结构、厚重羽毛、人足形态与展翼姿态，背景可放入高山、断崖、古木、流云与烈风，整体呈现诡谲、原始、神秘的远古东方神话氛围。",
+  "assets": [
+    {
+      "id": "shusi-gongbi-3x4-v1",
+      "type": "image",
+      "model": "gpt-image-2",
+      "style": [
+        "工笔画",
+        "极繁主义"
+      ],
+      "aspectRatio": "3:4",
+      "width": 1085,
+      "height": 1449,
+      "path": "/images/creatures/027-shusi/shusi-gongbi-3x4-v1.png"
+    }
+  ]
+}
