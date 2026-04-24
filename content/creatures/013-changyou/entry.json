@@ -1,0 +1,25 @@
+{
+  "id": "013-changyou",
+  "index": 13,
+  "slug": "changyou",
+  "name": "长右",
+  "chapter": "南山经",
+  "sourceUrl": "https://shj.jgbk.net/t7070.html",
+  "shortSummary": "其状如禺而四耳，能发出吟声，见则导致大水。",
+  "promptSummary": "山海经异兽长右，形象参考《南山经》：其状如禺而四耳，能发出吟声，见则导致大水。画面中重点突出头部轮廓、肢体比例、四耳结构、皮毛纹样与低伏前行的动作姿态，背景可放入暴雨将至的荒山、古林、怪石、奔涌水汽与上古植被，整体呈现凶异、危险、压迫感强的远古东方神话氛围。",
+  "assets": [
+    {
+      "id": "changyou-gongbi-3x4-v1",
+      "type": "image",
+      "model": "gpt-image-2",
+      "style": [
+        "工笔画",
+        "极繁主义"
+      ],
+      "aspectRatio": "3:4",
+      "width": 1086,
+      "height": 1448,
+      "path": "/images/creatures/013-changyou/changyou-gongbi-3x4-v1.png"
+    }
+  ]
+}

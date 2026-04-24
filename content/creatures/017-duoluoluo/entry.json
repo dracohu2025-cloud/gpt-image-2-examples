@@ -1,0 +1,25 @@
+{
+  "id": "017-duoluoluo",
+  "index": 17,
+  "slug": "duoluoluo",
+  "name": "多罗罗",
+  "chapter": "西山经",
+  "sourceUrl": "https://shj.jgbk.net/t7074.html",
+  "shortSummary": "该鸟生于莱山，嗓音独特，以食人为闻名。",
+  "promptSummary": "山海经异鸟多罗罗，形象参考《西山经》：该鸟生于莱山，嗓音独特，以食人为闻名。画面中重点突出羽毛色彩、喙爪结构、异形肢体、展翼姿态与凶禽压迫感，背景可放入高山、断崖、古木、流云与烈风，整体呈现凶异、危险、压迫感强的远古东方神话氛围。",
+  "assets": [
+    {
+      "id": "duoluoluo-gongbi-3x4-v1",
+      "type": "image",
+      "model": "gpt-image-2",
+      "style": [
+        "工笔画",
+        "极繁主义"
+      ],
+      "aspectRatio": "3:4",
+      "width": 1086,
+      "height": 1448,
+      "path": "/images/creatures/017-duoluoluo/duoluoluo-gongbi-3x4-v1.png"
+    }
+  ]
+}

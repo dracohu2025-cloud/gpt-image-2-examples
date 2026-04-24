@@ -1,0 +1,25 @@
+{
+  "id": "014-zhuanyu",
+  "index": 14,
+  "slug": "zhuanyu",
+  "name": "鱄鱼",
+  "chapter": "南山经",
+  "sourceUrl": "https://shj.jgbk.net/t7071.html",
+  "shortSummary": "其外貌如鲋而有猪毛，声音似豚，传说见之则天下大旱。",
+  "promptSummary": "山海经异兽鱄鱼，形象参考《南山经》：其外貌如鲋而有猪毛，声音似豚，传说见之则天下大旱。画面中重点突出鳞片质感、猪鬃般硬毛、头尾结构、躯体曲线与水中动态，背景可放入干裂河岸、深水、河泽、暗流、浪涌与水雾，整体呈现凶异、危险、压迫感强的远古东方神话氛围。",
+  "assets": [
+    {
+      "id": "zhuanyu-gongbi-3x4-v1",
+      "type": "image",
+      "model": "gpt-image-2",
+      "style": [
+        "工笔画",
+        "极繁主义"
+      ],
+      "aspectRatio": "3:4",
+      "width": 1086,
+      "height": 1448,
+      "path": "/images/creatures/014-zhuanyu/zhuanyu-gongbi-3x4-v1.png"
+    }
+  ]
+}

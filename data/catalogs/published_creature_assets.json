@@ -94,5 +94,45 @@
     "name": "灌灌",
     "imagePath": "/images/creatures/012-guanguan/guanguan-gongbi-3x4-v1.png",
     "entryPath": "content/creatures/012-guanguan/entry.json"
+  },
+  {
+    "id": "013-changyou",
+    "index": 13,
+    "slug": "changyou",
+    "name": "长右",
+    "imagePath": "/images/creatures/013-changyou/changyou-gongbi-3x4-v1.png",
+    "entryPath": "content/creatures/013-changyou/entry.json"
+  },
+  {
+    "id": "014-zhuanyu",
+    "index": 14,
+    "slug": "zhuanyu",
+    "name": "鱄鱼",
+    "imagePath": "/images/creatures/014-zhuanyu/zhuanyu-gongbi-3x4-v1.png",
+    "entryPath": "content/creatures/014-zhuanyu/entry.json"
+  },
+  {
+    "id": "015-gudiao",
+    "index": 15,
+    "slug": "gudiao",
+    "name": "蛊雕",
+    "imagePath": "/images/creatures/015-gudiao/gudiao-gongbi-3x4-v1.png",
+    "entryPath": "content/creatures/015-gudiao/entry.json"
+  },
+  {
+    "id": "016-wenyaoyu",
+    "index": 16,
+    "slug": "wenyaoyu",
+    "name": "文鳐鱼",
+    "imagePath": "/images/creatures/016-wenyaoyu/wenyaoyu-gongbi-3x4-v1.png",
+    "entryPath": "content/creatures/016-wenyaoyu/entry.json"
+  },
+  {
+    "id": "017-duoluoluo",
+    "index": 17,
+    "slug": "duoluoluo",
+    "name": "多罗罗",
+    "imagePath": "/images/creatures/017-duoluoluo/duoluoluo-gongbi-3x4-v1.png",
+    "entryPath": "content/creatures/017-duoluoluo/entry.json"
   }
 ]

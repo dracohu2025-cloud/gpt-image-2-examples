@@ -1,0 +1,25 @@
+{
+  "id": "016-wenyaoyu",
+  "index": 16,
+  "slug": "wenyaoyu",
+  "name": "文鳐鱼",
+  "chapter": "西山经",
+  "sourceUrl": "https://shj.jgbk.net/t7073.html",
+  "shortSummary": "文鳐鱼呈鲤鱼状，具备鸟类的翅膀，外形独特且能在水中飞翔。",
+  "promptSummary": "山海经异兽文鳐鱼，形象参考《西山经》：文鳐鱼呈鲤鱼状，具备鸟类的翅膀，外形独特且能在水中飞翔。画面中重点突出鲤形鳞片、鸟翼羽毛、头尾结构、躯体曲线与跃水飞翔的动态，背景可放入深水、河泽、暗流、浪涌、水雾与远古山岸，整体呈现诡谲、原始、神秘的远古东方神话氛围。",
+  "assets": [
+    {
+      "id": "wenyaoyu-gongbi-3x4-v1",
+      "type": "image",
+      "model": "gpt-image-2",
+      "style": [
+        "工笔画",
+        "极繁主义"
+      ],
+      "aspectRatio": "3:4",
+      "width": 1086,
+      "height": 1448,
+      "path": "/images/creatures/016-wenyaoyu/wenyaoyu-gongbi-3x4-v1.png"
+    }
+  ]
+}
